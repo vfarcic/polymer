@@ -33,3 +33,8 @@ gulp serve
 ```
 
 This outputs an IP address you can use to locally test and another that can be used on devices connected to your network.
+
+TODO
+====
+
+Fix API calls when not logged in.
