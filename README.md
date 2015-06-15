@@ -38,3 +38,5 @@ TODO
 ====
 
 Fix API calls when not logged in.
+Tests
+Reconnecting in XXX seconds

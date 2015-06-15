@@ -94,6 +94,8 @@ This runs the unit tests defined in the `app/test` directory through [web-compon
 
 #### Build & Vulcanize
 
+TODO: Continue
+
 ```sh
 gulp
 ```
@@ -263,5 +265,3 @@ If you find that you just want the simplest setup possible, we recommend using P
 ## Contributing
 
 Polymer Starter Kit is a new project and is an ongoing effort by the Web Component community. We welcome your bug reports, PRs for improvements, docs and anything you think would improve the experience for other Polymer developers.
-
-TODO: Change README
